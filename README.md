@@ -5,7 +5,7 @@ I’m a Backend Developer who loves turning complex problems into clean, scalabl
 💡 Curiosity keeps me learning.
 🚀 Passion keeps me building.
 
-I believe great code isn’t just about making things work — it’s about making things work better. Whether it’s designing REST APIs, optimizing databases, or experimenting with frontend frameworks, I’m always chasing that “how can this be better?” .
+I believe great code isn’t just about making things work — it’s about making things work better. Always chasing that “how can this be better?” .
 
 🛠️ Tech Stack
 
