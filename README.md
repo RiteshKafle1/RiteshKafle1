@@ -1,6 +1,6 @@
 👋 Hey there, I'm Ritesh Kafle!
 
-I’m a Backend Developer who loves turning complex problems into clean, scalable solutions and lately, I’ve been diving deeper into the Frontend world to become a full-stack problem solver.Always looking for ways to make things better, faster, and smarter
+A Backend Developer who loves turning complex problems into clean, scalable solutions and lately, I’ve been diving deeper into the Frontend world to become a full-stack problem solver.Always looking for ways to make things better, faster, and smarter
 
 💡 Curiosity keeps me learning.
 🚀 Passion keeps me building.
