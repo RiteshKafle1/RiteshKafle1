@@ -15,7 +15,7 @@ Tools: Git, Postman, Cloudinary, VS Code, Docker
 
 
 
-🚀I’m on a journey to become not just a better developer, but a better thinker, creator and a teammate
+🚀On a journey to become not just a better developer, but a better thinker, creator and a teammate
 
 📫 Let’s Connect!
 💼 LinkedIn:https://www.linkedin.com/in/ritesh-kafle/
