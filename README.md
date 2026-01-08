@@ -1,5 +1,9 @@
 #  About Me:
-A Backend Developer who loves turning complex problems into clean, scalable solutions and lately, I’ve been diving deeper into the Frontend world to become a full-stack problem solver.Always looking for ways to make things better, faster, and smarter.I believe great code isn’t just about making things work — it’s about making things work better. Always chasing that “how can this be better?” .On a journey to become not just a better developer, but a better thinker, creator and a teammate.Let’s Connect! 💼 LinkedIn:https://www.linkedin.com/in/ritesh-kafle/
+A Backend Developer who loves turning complex problems into clean, scalable solutions and lately, I’ve been diving deeper into the Frontend world to become a full-stack problem solver.
+Always looking for ways to make things better, faster, and smarter.
+I believe great code isn’t just about making things work — it’s about making things work better. 
+Always chasing that “how can this be better?” .On a journey to become not just a better developer, but a better thinker, creator and a teammate.
+Let’s Connect! 💼 LinkedIn:https://www.linkedin.com/in/ritesh-kafle/
 
 
 ## 🌐 Socials:
